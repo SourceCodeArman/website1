@@ -1,3 +1,23 @@
 body{
-    background-image: url(../images/bg.jpg)
+    background:rgba(69, 69, 69)
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    justify-self: center;
+    align-self: center;
+}
+
+.content{
+    display: flex;
+    width: 1000px;
+    height: 500px;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.6);
+    justify-self: center;
+    justify-content: center;
+    border-radius: 25px;
+    align-items: center;
+    color: white;
 }
