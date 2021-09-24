@@ -138,6 +138,9 @@ img {
     padding: 10px 30px;
     cursor: pointer;
     background: var(--primary-color);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
 }
 
 .flex {
